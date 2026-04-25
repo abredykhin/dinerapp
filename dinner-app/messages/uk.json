@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "library": "Рецепти",
+    "cook": "Приготувати",
+    "add": "Додати"
+  },
+  "auth": {
+    "signIn": "Увійти",
+    "signOut": "Вийти",
+    "emailLabel": "Електронна пошта",
+    "emailPlaceholder": "ваша@пошта.ua",
+    "magicLinkButton": "Надіслати посилання для входу",
+    "magicLinkSent": "Перевірте пошту — ми надіслали вам посилання для входу.",
+    "notAllowed": "Ця адреса електронної пошти не в списку запрошених."
+  },
+  "library": {
+    "title": "Книга рецептів",
+    "searchPlaceholder": "Пошук рецептів…",
+    "empty": "Рецептів ще немає — додайте перший!",
+    "noResults": "Нічого не знайдено.",
+    "loadMore": "Завантажити ще"
+  },
+  "recipeCard": {
+    "source_ai": "Згенеровано ШІ",
+    "source_scraped": "Імпортовано"
+  },
+  "recipeDetail": {
+    "ingredients": "Інгредієнти",
+    "instructions": "Приготування",
+    "editButton": "Редагувати",
+    "deleteButton": "Видалити",
+    "regenerateImageButton": "Нове фото",
+    "regeneratingImage": "Генеруємо фото…",
+    "confirmDelete": "Видалити цей рецепт?",
+    "confirmDeleteBody": "Цю дію неможливо скасувати.",
+    "cancel": "Скасувати",
+    "confirm": "Видалити",
+    "source": "Джерело",
+    "revisedTimes": "{count, plural, one {змінено # раз} few {змінено # рази} other {змінено # разів}}",
+    "summaryPlaceholder": "Короткий опис (необов'язково)",
+    "addIngredient": "Додати інгредієнт",
+    "addStep": "Додати крок"
+  },
+  "recipeEdit": {
+    "title": "Редагувати рецепт",
+    "titleLabel": "Назва",
+    "summaryLabel": "Опис",
+    "ingredientsLabel": "Інгредієнти",
+    "instructionsLabel": "Приготування",
+    "saveButton": "Зберегти",
+    "saving": "Зберігаємо…"
+  },
+  "addRecipe": {
+    "title": "Додати рецепт",
+    "promptLabel": "Назва страви",
+    "promptPlaceholder": "наприклад, Свинячі відбивні",
+    "generateButton": "Створити",
+    "generating": "Створюємо…",
+    "orDivider": "або",
+    "urlLabel": "Вставте посилання на рецепт",
+    "urlPlaceholder": "https://…",
+    "importButton": "Імпортувати",
+    "importing": "Імпортуємо…",
+    "generatingImage": "Генеруємо фото…",
+    "imageFailed": "Не вдалося створити фото"
+  },
+  "disambiguation": {
+    "title": "Яку страву ви мали на увазі?",
+    "pickHint": "Натисніть на варіант, щоб створити повний рецепт."
+  },
+  "regenerate": {
+    "commentsLabel": "Що змінити?",
+    "commentsPlaceholder": "наприклад, Зроби менш гострим, без грибів",
+    "button": "Перестворити",
+    "regenerating": "Перестворюємо…"
+  },
+  "cook": {
+    "title": "Що приготувати?",
+    "chipHint": "Відзначте, що є вдома",
+    "suggestButton": "Запропонуй рецепт",
+    "suggesting": "Шукаємо підходящий рецепт…",
+    "noMatch": "Підходящих рецептів немає — спробуйте створити новий.",
+    "generateFromChipsButton": "Створити новий рецепт",
+    "showAnother": "Інший варіант",
+    "acceptButton": "Буду готувати!",
+    "accepting": "Чудово!"
+  },
+  "ingredientCategories": {
+    "meat": "М'ясо",
+    "poultry": "Птиця",
+    "fish": "Риба",
+    "seafood": "Морепродукти",
+    "vegetable": "Овочі",
+    "grain": "Крупи та макарони",
+    "legume": "Бобові",
+    "dairy": "Молочне та яйця",
+    "fruit": "Фрукти",
+    "other": "Інше"
+  },
+  "errors": {
+    "generic": "Щось пішло не так. Спробуйте ще раз.",
+    "notFound": "Не знайдено.",
+    "unauthorized": "Необхідно увійти в акаунт."
+  },
+  "locale": {
+    "en": "English",
+    "ru": "Русский",
+    "uk": "Українська"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "library": "Library",
+    "cook": "Cook",
+    "add": "Add Recipe"
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "your@email.com",
+    "magicLinkButton": "Send magic link",
+    "magicLinkSent": "Check your inbox — we sent you a sign-in link.",
+    "notAllowed": "This email address is not on the invite list."
+  },
+  "library": {
+    "title": "Recipe Library",
+    "searchPlaceholder": "Search recipes…",
+    "empty": "No recipes yet — add your first one!",
+    "noResults": "No recipes match your search.",
+    "loadMore": "Load more"
+  },
+  "recipeCard": {
+    "source_ai": "AI generated",
+    "source_scraped": "Imported"
+  },
+  "recipeDetail": {
+    "ingredients": "Ingredients",
+    "instructions": "Instructions",
+    "editButton": "Edit",
+    "deleteButton": "Delete",
+    "regenerateImageButton": "New photo",
+    "regeneratingImage": "Generating photo…",
+    "confirmDelete": "Delete this recipe?",
+    "confirmDeleteBody": "This cannot be undone.",
+    "cancel": "Cancel",
+    "confirm": "Delete",
+    "source": "Source",
+    "revisedTimes": "{count, plural, one {revised # time} other {revised # times}}",
+    "summaryPlaceholder": "Short description (optional)",
+    "addIngredient": "Add ingredient",
+    "addStep": "Add step"
+  },
+  "recipeEdit": {
+    "title": "Edit Recipe",
+    "titleLabel": "Title",
+    "summaryLabel": "Summary",
+    "ingredientsLabel": "Ingredients",
+    "instructionsLabel": "Instructions",
+    "saveButton": "Save",
+    "saving": "Saving…"
+  },
+  "addRecipe": {
+    "title": "Add Recipe",
+    "promptLabel": "Dish name",
+    "promptPlaceholder": "e.g. Chicken stir-fry",
+    "generateButton": "Generate",
+    "generating": "Generating…",
+    "orDivider": "or",
+    "urlLabel": "Paste a recipe URL",
+    "urlPlaceholder": "https://…",
+    "importButton": "Import",
+    "importing": "Importing…",
+    "generatingImage": "Generating photo…",
+    "imageFailed": "Couldn't generate photo"
+  },
+  "disambiguation": {
+    "title": "Which dish did you mean?",
+    "pickHint": "Tap one to generate the full recipe."
+  },
+  "regenerate": {
+    "commentsLabel": "What should change?",
+    "commentsPlaceholder": "e.g. Make it less spicy, no mushrooms",
+    "button": "Regenerate",
+    "regenerating": "Regenerating…"
+  },
+  "cook": {
+    "title": "What's for dinner?",
+    "chipHint": "Pick the ingredients you have",
+    "suggestButton": "Suggest a recipe",
+    "suggesting": "Finding a match…",
+    "noMatch": "No recipes match — try generating a new one.",
+    "generateFromChipsButton": "Generate new recipe",
+    "showAnother": "Show another",
+    "acceptButton": "Cook this!",
+    "accepting": "Logged!"
+  },
+  "ingredientCategories": {
+    "meat": "Meat",
+    "poultry": "Poultry",
+    "fish": "Fish",
+    "seafood": "Seafood",
+    "vegetable": "Vegetables",
+    "grain": "Grains & Starches",
+    "legume": "Legumes",
+    "dairy": "Dairy & Eggs",
+    "fruit": "Fruit",
+    "other": "Other"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "notFound": "Not found.",
+    "unauthorized": "You need to be signed in."
+  },
+  "locale": {
+    "en": "English",
+    "ru": "Русский",
+    "uk": "Українська"
+  }
+}

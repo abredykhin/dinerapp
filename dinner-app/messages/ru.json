@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "library": "Рецепты",
+    "cook": "Приготовить",
+    "add": "Добавить"
+  },
+  "auth": {
+    "signIn": "Войти",
+    "signOut": "Выйти",
+    "emailLabel": "Электронная почта",
+    "emailPlaceholder": "ваша@почта.ru",
+    "magicLinkButton": "Отправить ссылку для входа",
+    "magicLinkSent": "Проверьте почту — мы отправили вам ссылку для входа.",
+    "notAllowed": "Этот адрес электронной почты не в списке приглашённых."
+  },
+  "library": {
+    "title": "Книга рецептов",
+    "searchPlaceholder": "Поиск рецептов…",
+    "empty": "Рецептов пока нет — добавьте первый!",
+    "noResults": "Ничего не найдено.",
+    "loadMore": "Загрузить ещё"
+  },
+  "recipeCard": {
+    "source_ai": "Сгенерирован ИИ",
+    "source_scraped": "Импортирован"
+  },
+  "recipeDetail": {
+    "ingredients": "Ингредиенты",
+    "instructions": "Приготовление",
+    "editButton": "Редактировать",
+    "deleteButton": "Удалить",
+    "regenerateImageButton": "Новое фото",
+    "regeneratingImage": "Генерируем фото…",
+    "confirmDelete": "Удалить этот рецепт?",
+    "confirmDeleteBody": "Это действие нельзя отменить.",
+    "cancel": "Отмена",
+    "confirm": "Удалить",
+    "source": "Источник",
+    "revisedTimes": "{count, plural, one {изменён # раз} few {изменён # раза} other {изменён # раз}}",
+    "summaryPlaceholder": "Краткое описание (необязательно)",
+    "addIngredient": "Добавить ингредиент",
+    "addStep": "Добавить шаг"
+  },
+  "recipeEdit": {
+    "title": "Редактировать рецепт",
+    "titleLabel": "Название",
+    "summaryLabel": "Описание",
+    "ingredientsLabel": "Ингредиенты",
+    "instructionsLabel": "Приготовление",
+    "saveButton": "Сохранить",
+    "saving": "Сохранение…"
+  },
+  "addRecipe": {
+    "title": "Добавить рецепт",
+    "promptLabel": "Название блюда",
+    "promptPlaceholder": "например, Свиные отбивные",
+    "generateButton": "Создать",
+    "generating": "Создаём…",
+    "orDivider": "или",
+    "urlLabel": "Вставьте ссылку на рецепт",
+    "urlPlaceholder": "https://…",
+    "importButton": "Импортировать",
+    "importing": "Импортируем…",
+    "generatingImage": "Генерируем фото…",
+    "imageFailed": "Не удалось создать фото"
+  },
+  "disambiguation": {
+    "title": "Какое блюдо вы имели в виду?",
+    "pickHint": "Нажмите на вариант, чтобы создать полный рецепт."
+  },
+  "regenerate": {
+    "commentsLabel": "Что изменить?",
+    "commentsPlaceholder": "например, Сделай менее острым, без грибов",
+    "button": "Пересоздать",
+    "regenerating": "Пересоздаём…"
+  },
+  "cook": {
+    "title": "Что приготовить?",
+    "chipHint": "Отметьте, что есть дома",
+    "suggestButton": "Предложи рецепт",
+    "suggesting": "Ищем подходящий рецепт…",
+    "noMatch": "Подходящих рецептов нет — попробуйте создать новый.",
+    "generateFromChipsButton": "Создать новый рецепт",
+    "showAnother": "Другой вариант",
+    "acceptButton": "Буду готовить!",
+    "accepting": "Отлично!"
+  },
+  "ingredientCategories": {
+    "meat": "Мясо",
+    "poultry": "Птица",
+    "fish": "Рыба",
+    "seafood": "Морепродукты",
+    "vegetable": "Овощи",
+    "grain": "Крупы и макароны",
+    "legume": "Бобовые",
+    "dairy": "Молочное и яйца",
+    "fruit": "Фрукты",
+    "other": "Прочее"
+  },
+  "errors": {
+    "generic": "Что-то пошло не так. Попробуйте ещё раз.",
+    "notFound": "Не найдено.",
+    "unauthorized": "Необходимо войти в аккаунт."
+  },
+  "locale": {
+    "en": "English",
+    "ru": "Русский",
+    "uk": "Українська"
+  }
+}
